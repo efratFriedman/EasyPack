@@ -26,23 +26,23 @@
 
 **User logs in or signs up (with full form validation).**
 
-<img src="https://github.com/user-attachments/assets/41275726-0370-41f9-a8f0-93f36c9627e8" width="500"/>
-<img src="https://github.com/user-attachments/assets/7694217c-05c6-42fe-8d26-768ba3bb9c2c" width="500"/>
+<img src="https://github.com/user-attachments/assets/41275726-0370-41f9-a8f0-93f36c9627e8" width="350"/>
+<img src="https://github.com/user-attachments/assets/7694217c-05c6-42fe-8d26-768ba3bb9c2c" width="350"/>
 
 **The user selects a room type, names it, and uploads a photo.**
 
-<img src="https://github.com/user-attachments/assets/e3e356e3-d102-4f0c-8313-cb95393cf696" width="500"/>
-<img src="https://github.com/user-attachments/assets/5dd149fc-657b-447f-bd2b-bebc7147e84a" width="500"/>
-<img src="https://github.com/user-attachments/assets/53c49bd0-2f7d-4627-88af-fae53c469c5e" width="500"/>
-<img src="https://github.com/user-attachments/assets/ee4afdb2-0452-4d64-97cf-0f5f91cb1d10" width="500"/>
+<img src="https://github.com/user-attachments/assets/e3e356e3-d102-4f0c-8313-cb95393cf696" width="350"/>
+<img src="https://github.com/user-attachments/assets/5dd149fc-657b-447f-bd2b-bebc7147e84a" width="350"/>
+<img src="https://github.com/user-attachments/assets/53c49bd0-2f7d-4627-88af-fae53c469c5e" width="350"/>
+<img src="https://github.com/user-attachments/assets/ee4afdb2-0452-4d64-97cf-0f5f91cb1d10" width="350"/>
 
 **Image is sent to a Python-based object detection server.**
 
-<img src="https://github.com/user-attachments/assets/fe6939ff-7652-4846-9e9a-7a48b3d151d0" width="500"/>
+<img src="https://github.com/user-attachments/assets/fe6939ff-7652-4846-9e9a-7a48b3d151d0" width="350"/>
 
 **The image is analyzed**
 
-<img src="https://github.com/user-attachments/assets/fe400308-d817-4b51-8891-3286f090f8ad" width="500"/>
+<img src="https://github.com/user-attachments/assets/fe400308-d817-4b51-8891-3286f090f8ad" width="350"/>
 
 **Items are detected, their dimensions are estimated, and tagged.  
 Object volume data is processed with a Bin Packing Algorithm to determine the optimal number of boxes.  
@@ -52,7 +52,7 @@ For example:**
 
 **The user sees the packing suggestion with box-by-box contents and can export the list to PDF.**
 
-<img src="https://github.com/user-attachments/assets/39d236e2-9b87-475f-be60-e165043293b8" width="500"/>
+<img src="https://github.com/user-attachments/assets/39d236e2-9b87-475f-be60-e165043293b8" width="350"/>
 
 
 **🧰 Technologies Used**
