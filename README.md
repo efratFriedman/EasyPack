@@ -1,25 +1,27 @@
-**Easypack
+**Easypack**
 
 
 
-**🧳 What is Easypack?
+**🧳 What is Easypack?**
 
 **Easypack** is a smart packing assistant built to help users pack efficiently when moving apartments. It uses a powerful algorithm and image analysis to optimize how belongings should be packed into boxes — reducing stress and saving time.
 
-🚀 Features
+**🚀 Features**
 
-✅ Smart Room Analysis – Upload a room image and let the system detect, measure, and categorize items.
+**✅ Smart Room Analysis** – Upload a room image and let the system detect, measure, and categorize items.
 
-✅ Bin Packing Algorithm – Calculates the minimum number of boxes needed based on object volume.
+**✅ Bin Packing Algorithm**– Calculates the minimum number of boxes needed based on object volume.
 
-✅ PDF Export – Users receive a detailed box-packing list they can export to PDF.
+**✅ PDF Export** – Users receive a detailed box-packing list they can export to PDF.
 
-✅ Authentication with Validation – Full login/signup process with robust field validation.
+**✅ Authentication with Validation** – Full login/signup process with robust field validation.
 
-🧠 How It Works
+**🧠 How It Works**
 
 User logs in or signs up (with full form validation).
 
+
+![homepage1](https://github.com/user-attachments/assets/32efdf7b-8eb7-4689-b663-42ee68bc63c5)
 
 
 The user selects a room type, names it, and uploads a photo.
