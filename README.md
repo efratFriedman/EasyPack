@@ -20,47 +20,39 @@
 
 
 
-![homepage1](https://github.com/user-attachments/assets/32efdf7b-8eb7-4689-b663-42ee68bc63c5)
-![homepage2](https://github.com/user-attachments/assets/9f50245e-b9bd-4659-b2d8-b53fdbd6c0b7)
+
+<img src="https://github.com/user-attachments/assets/32efdf7b-8eb7-4689-b663-42ee68bc63c5" width="500"/>
+<img src="https://github.com/user-attachments/assets/9f50245e-b9bd-4659-b2d8-b53fdbd6c0b7" width="500"/>
 
 **User logs in or signs up (with full form validation).**
 
-![login](https://github.com/user-attachments/assets/41275726-0370-41f9-a8f0-93f36c9627e8)
-![signup](https://github.com/user-attachments/assets/7694217c-05c6-42fe-8d26-768ba3bb9c2c)
-
+<img src="https://github.com/user-attachments/assets/41275726-0370-41f9-a8f0-93f36c9627e8" width="500"/>
+<img src="https://github.com/user-attachments/assets/7694217c-05c6-42fe-8d26-768ba3bb9c2c" width="500"/>
 
 **The user selects a room type, names it, and uploads a photo.**
 
-
-![pickroom1](https://github.com/user-attachments/assets/e3e356e3-d102-4f0c-8313-cb95393cf696)
-![pickroom2](https://github.com/user-attachments/assets/5dd149fc-657b-447f-bd2b-bebc7147e84a)
-![nameroome](https://github.com/user-attachments/assets/53c49bd0-2f7d-4627-88af-fae53c469c5e)
-![uploadimage](https://github.com/user-attachments/assets/ee4afdb2-0452-4d64-97cf-0f5f91cb1d10)
-
-
+<img src="https://github.com/user-attachments/assets/e3e356e3-d102-4f0c-8313-cb95393cf696" width="500"/>
+<img src="https://github.com/user-attachments/assets/5dd149fc-657b-447f-bd2b-bebc7147e84a" width="500"/>
+<img src="https://github.com/user-attachments/assets/53c49bd0-2f7d-4627-88af-fae53c469c5e" width="500"/>
+<img src="https://github.com/user-attachments/assets/ee4afdb2-0452-4d64-97cf-0f5f91cb1d10" width="500"/>
 
 **Image is sent to a Python-based object detection server.**
 
-
-![afterupload](https://github.com/user-attachments/assets/fe6939ff-7652-4846-9e9a-7a48b3d151d0)
-
+<img src="https://github.com/user-attachments/assets/fe6939ff-7652-4846-9e9a-7a48b3d151d0" width="500"/>
 
 **The image is analyzed**
 
+<img src="https://github.com/user-attachments/assets/fe400308-d817-4b51-8891-3286f090f8ad" width="500"/>
 
-![analyze](https://github.com/user-attachments/assets/fe400308-d817-4b51-8891-3286f090f8ad)
+**Items are detected, their dimensions are estimated, and tagged.  
+Object volume data is processed with a Bin Packing Algorithm to determine the optimal number of boxes.  
+For example:**
 
-**Items are detected, their dimensions are estimated, and tagged
-Object volume data is processed with a Bin Packing Algorithm to determine the optimal number of boxes.
-for example:**
-
-
-![output](https://github.com/user-attachments/assets/bda31fc4-7ea4-493f-b204-45f03efcd158)
+<img src="https://github.com/user-attachments/assets/bda31fc4-7ea4-493f-b204-45f03efcd158" width="500"/>
 
 **The user sees the packing suggestion with box-by-box contents and can export the list to PDF.**
 
-
-![result](https://github.com/user-attachments/assets/39d236e2-9b87-475f-be60-e165043293b8)
+<img src="https://github.com/user-attachments/assets/39d236e2-9b87-475f-be60-e165043293b8" width="500"/>
 
 
 **🧰 Technologies Used**
