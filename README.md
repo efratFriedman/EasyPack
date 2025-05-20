@@ -40,19 +40,26 @@
 
 
 **Image is sent to a Python-based object detection server.**
+
+
 ![afterupload](https://github.com/user-attachments/assets/fe6939ff-7652-4846-9e9a-7a48b3d151d0)
 
 
 **The image is analyzed**
+
 
 ![analyze](https://github.com/user-attachments/assets/fe400308-d817-4b51-8891-3286f090f8ad)
 
 **Items are detected, their dimensions are estimated, and tagged
 Object volume data is processed with a Bin Packing Algorithm to determine the optimal number of boxes.
 for example:**
+
+
 ![output](https://github.com/user-attachments/assets/bda31fc4-7ea4-493f-b204-45f03efcd158)
 
 **The user sees the packing suggestion with box-by-box contents and can export the list to PDF.**
+
+
 ![result](https://github.com/user-attachments/assets/39d236e2-9b87-475f-be60-e165043293b8)
 
 
