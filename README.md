@@ -48,7 +48,7 @@
 Object volume data is processed with a Bin Packing Algorithm to determine the optimal number of boxes.  
 For example:**
 
-<img src="https://github.com/user-attachments/assets/bda31fc4-7ea4-493f-b204-45f03efcd158" width="100"/>
+<img src="https://github.com/user-attachments/assets/bda31fc4-7ea4-493f-b204-45f03efcd158" width="250"/>
 
 **The user sees the packing suggestion with box-by-box contents and can export the list to PDF.**
 
