@@ -21,8 +21,8 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/32efdf7b-8eb7-4689-b663-42ee68bc63c5" width="300"/>
-<img src="https://github.com/user-attachments/assets/9f50245e-b9bd-4659-b2d8-b53fdbd6c0b7" width="300"/>
+<img src="https://github.com/user-attachments/assets/32efdf7b-8eb7-4689-b663-42ee68bc63c5" width="350"/>
+<img src="https://github.com/user-attachments/assets/9f50245e-b9bd-4659-b2d8-b53fdbd6c0b7" width="350"/>
 
 **User logs in or signs up (with full form validation).**
 
