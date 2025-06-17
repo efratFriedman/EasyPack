@@ -1,25 +1,20 @@
-**Easypack**
+# Easypack 🧳
 
-
-
-**🧳 What is Easypack?**
+## What is Easypack?
 
 **Easypack** is a smart packing assistant built to help users pack efficiently when moving apartments. It uses a powerful algorithm and image analysis to optimize how belongings should be packed into boxes — reducing stress and saving time.
 
-**🚀 Features**
+## 🚀 Features
 
-**✅ Smart Room Analysis** – Upload a room image and let the system detect, measure, and categorize items.
+- **✅ Smart Room Analysis** – Upload a room image and let the system detect, measure, and categorize items.
 
-**✅ Bin Packing Algorithm**– Calculates the minimum number of boxes needed based on object volume.
+- **✅ Bin Packing Algorithm** – Calculates the minimum number of boxes needed based on object volume.
 
-**✅ PDF Export** – Users receive a detailed box-packing list they can export to PDF.
+- **✅ PDF Export** – Users receive a detailed box-packing list they can export to PDF.
 
-**✅ Authentication with Validation** – Full login/signup process with robust field validation.
+- **✅ Authentication with Validation** – Full login/signup process with robust field validation.
 
-**🧠 How It Works**
-
-
-
+## 🧠 How It Works
 
 <img src="https://github.com/user-attachments/assets/32efdf7b-8eb7-4689-b663-42ee68bc63c5" width="350"/>
 <img src="https://github.com/user-attachments/assets/9f50245e-b9bd-4659-b2d8-b53fdbd6c0b7" width="350"/>
@@ -54,30 +49,25 @@ For example:**
 
 <img src="https://github.com/user-attachments/assets/39d236e2-9b87-475f-be60-e165043293b8" width="350"/>
 
+## 🧰 Technologies Used
 
-**🧰 Technologies Used**
+### 🖥 Frontend
 
-**🖥 Frontend**
-
-- Angular
-
-- HTML/CSS
-
+- Angular  
+- HTML/CSS  
 - TypeScript
 
-**🧪 Backend**
+### 🧪 Backend
 
-- C# (ASP.NET Core Web API)
-
-- 🤖 Image Processing
-
+- C# (ASP.NET Core Web API)  
+- 🤖 Image Processing  
 - Python server (object detection, volume calculation)
 
-**📦 Algorithm**
+### 📦 Algorithm
 
 - Custom implementation of the **Bin Packing Algorithm**
 
-**📄 Installation & Running Locally**
+## 📄 Installation & Running Locally
 
 **1.** Clone the Repository
 
@@ -106,19 +96,15 @@ python app.py
 
 Make sure all services are running concurrently.
 
-**✨ What Makes Easypack Special?**
-
-- Real image upload and intelligent object recognition
-
-- Practical use of computer vision and logistics algorithms
-
-- Full-stack integration with Angular, C#, and Python
-
+## ✨ What Makes Easypack Special?
+- Real image upload and intelligent object recognition  
+- Practical use of computer vision and logistics algorithms  
+- Full-stack integration with Angular, C#, and Python  
 - Exportable, structured results to help with physical moving
 
-**📬 Contact**
-
+## 📬 Contact
 Feel free to reach out for any questions or collaboration opportunities!
+
 
 **Easypack – Packing made smart.**
 
