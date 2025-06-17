@@ -108,13 +108,13 @@ Make sure all services are running concurrently.
 
 **✨ What Makes Easypack Special?**
 
-*Real image upload and intelligent object recognition
+- Real image upload and intelligent object recognition
 
-*Practical use of computer vision and logistics algorithms
+- Practical use of computer vision and logistics algorithms
 
-*Full-stack integration with Angular, C#, and Python
+- Full-stack integration with Angular, C#, and Python
 
-*Exportable, structured results to help with physical moving
+- Exportable, structured results to help with physical moving
 
 **📬 Contact**
 
