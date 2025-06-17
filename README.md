@@ -59,23 +59,23 @@ For example:**
 
 **🖥 Frontend**
 
-*Angular
+- Angular
 
-*HTML/CSS
+- HTML/CSS
 
-*TypeScript
+- TypeScript
 
 **🧪 Backend**
 
-*C# (ASP.NET Core Web API)
+- C# (ASP.NET Core Web API)
 
-*🤖 Image Processing
+- 🤖 Image Processing
 
-*Python server (object detection, volume calculation)
+- Python server (object detection, volume calculation)
 
 **📦 Algorithm**
 
-*Custom implementation of the **Bin Packing Algorithm**
+- Custom implementation of the **Bin Packing Algorithm**
 
 **📄 Installation & Running Locally**
 
